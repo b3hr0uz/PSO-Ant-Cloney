@@ -41,7 +41,7 @@
 		BEE8E4532B85933600868C41 = {
 			isa = PBXGroup;
 			children = (
-				BEE8E45E2B85933600868C41 /* PSO-Ant-Cloney */,
+				BEE8E45F2B85933600868C41 /* main.cpp */,
 				BEE8E45D2B85933600868C41 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -52,14 +52,6 @@
 				BEE8E45C2B85933600868C41 /* PSO-Ant-Cloney */,
 			);
 			name = Products;
-			sourceTree = "<group>";
-		};
-		BEE8E45E2B85933600868C41 /* PSO-Ant-Cloney */ = {
-			isa = PBXGroup;
-			children = (
-				BEE8E45F2B85933600868C41 /* main.cpp */,
-			);
-			path = "PSO-Ant-Cloney";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
