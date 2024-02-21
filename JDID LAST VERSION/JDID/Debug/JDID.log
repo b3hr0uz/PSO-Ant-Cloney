@@ -1,0 +1,43 @@
+﻿Build started 6/20/2013 8:25:09 PM.
+     1>Project "C:\Users\Alireza\Documents\Visual Studio 2010\Projects\JDID\JDID\JDID.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\JDID.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\JDID.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt JDID.cpp
+         JDID.cpp
+     1>c:\users\alireza\documents\visual studio 2010\projects\jdid\jdid\jdid.cpp(28): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\alireza\documents\visual studio 2010\projects\jdid\jdid\jdid.cpp(30): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\alireza\documents\visual studio 2010\projects\jdid\jdid\jdid.cpp(36): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\alireza\documents\visual studio 2010\projects\jdid\jdid\jdid.cpp(38): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\alireza\documents\visual studio 2010\projects\jdid\jdid\jdid.cpp(40): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\alireza\documents\visual studio 2010\projects\jdid\jdid\jdid.cpp(42): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\alireza\documents\visual studio 2010\projects\jdid\jdid\jdid.cpp(44): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\alireza\documents\visual studio 2010\projects\jdid\jdid\jdid.cpp(45): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\alireza\documents\visual studio 2010\projects\jdid\jdid\jdid.cpp(60): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\alireza\documents\visual studio 2010\projects\jdid\jdid\jdid.cpp(61): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\alireza\documents\visual studio 2010\projects\jdid\jdid\jdid.cpp(66): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\alireza\documents\visual studio 2010\projects\jdid\jdid\jdid.cpp(68): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\alireza\documents\visual studio 2010\projects\jdid\jdid\jdid.cpp(70): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\alireza\documents\visual studio 2010\projects\jdid\jdid\jdid.cpp(72): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\alireza\documents\visual studio 2010\projects\jdid\jdid\jdid.cpp(110): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Alireza\Documents\Visual Studio 2010\Projects\JDID\Debug\JDID.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\JDID.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Alireza\Documents\Visual Studio 2010\Projects\JDID\Debug\JDID.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Alireza\Documents\Visual Studio 2010\Projects\JDID\Debug\JDID.lib" /MACHINE:X86 Debug\JDID.exe.embed.manifest.res
+         Debug\JDID.obj
+         Debug\stdafx.obj
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\JDID.exe.embed.manifest" /manifest Debug\JDID.exe.intermediate.manifest
+         All outputs are up-to-date.
+       LinkEmbedManifest:
+         All outputs are up-to-date.
+         JDID.vcxproj -> C:\Users\Alireza\Documents\Visual Studio 2010\Projects\JDID\Debug\JDID.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\JDID.unsuccessfulbuild".
+         Touching "Debug\JDID.lastbuildstate".
+     1>Done Building Project "C:\Users\Alireza\Documents\Visual Studio 2010\Projects\JDID\JDID\JDID.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.97
